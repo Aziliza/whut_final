@@ -1,6 +1,12 @@
-```mermaid
-graph LR
-A(Apple)--1234-->B{Boy}
+# 武汉理工大学毕业论文$\LaTeX$ 模板（本科）
 
-style A fill-opacity:0,stroke:#000000,stroke-width:2px
-```
+## 内容
+封面、承诺书、目录、参考文献、字体、页面设置完全按照武汉理工大学毕业论文要求编写。
+
+##使用
+
+在[final.tex](final.tex)中填写个人信息，[body](body)文件夹中编写前言、正文、摘要等内容。
+
+# 注意事项
+需要安装[华文中宋字体](hwzs.ttf)（已包含）
+参考文献使用[bibtex](https://zhuanlan.zhihu.com/p/114733612)。引用请使用\ucite{}上标引用。
