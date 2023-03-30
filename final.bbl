@@ -1,0 +1,149 @@
+\begin{thebibliography}{10}
+
+\bibitem{2003Mathematical}
+C.~Castillo-Chavez.
+\newblock Mathematical models in population biology and epidemiology.
+\newblock {\em The American Mathematical Monthly}, 110(3):254, 2003.
+
+\bibitem{皮特·布鲁克史密斯1999}
+皮特·布鲁克史密斯.
+\newblock {\em [灰皮书系·I]震惊世界的科学前沿报告
+  未来的灾难——瘟疫复活与人类的生存之战}.
+\newblock 海南出版社, 1999.
+
+\bibitem{王健2020基于}
+王健, 王天萌, and 嵇冉.
+\newblock 基于sir模型对新冠肺炎疫情的数理分析.
+\newblock {\em 中国统计}, (5):3, 2020.
+
+\bibitem{王寅2020基于}
+胡俊 王寅, 罗帅.
+\newblock
+  基于sir模型的新型冠状病毒肺炎疫情预测及防控措施研究.
+\newblock {\em 黔南民族师范学院学报}, 40(4):6, 2020.
+
+\bibitem{李承倬2020基于}
+李承倬, 武文韬, 潘振宇, 邓玉皎, 李筱, 代志军, and 吕军.
+\newblock
+  基于sir模型和基本再生数的浙江省新型冠状病毒肺炎防控效果分析.
+\newblock {\em 浙江医学}, 42(4):4, 2020.
+
+\bibitem{1979Epidemic}
+R.~S. Gottfried.
+\newblock Epidemic disease in fifteenth-century england. the medical response
+  and the demographic consequences.
+\newblock {\em The Journal of Modern History}, 51(3):561--564, 1979.
+
+\bibitem{1911The}
+R.~Ross.
+\newblock The prevention of malaria.
+\newblock {\em Journal of the American Medical Association}, LVII(21):1715--,
+  1911.
+
+\bibitem{1927A}
+W.~O. Kermack and A.~G. Mckendrick.
+\newblock A contribution to the mathematical theory of epidemics.
+\newblock {\em Proceedings of the Royal Society of London Series A}, 115, 1927.
+
+\bibitem{W1991Contributions}
+W., O., KermackA., G., and McKendrick.
+\newblock Contributions to the mathematical theory of epidemics—ii. the
+  problem of endemicity.
+\newblock {\em Bulletin of Mathematical Biology}, 1991.
+
+\bibitem{1977The}
+N.~Bailey.
+\newblock The mathematical theory of infectious diseases and its applications.
+\newblock {\em Journal of the Operational Research Society}, 28(2):479--480,
+  1977.
+
+\bibitem{1993The}
+Jap Heesterbeek and Jaj Metz.
+\newblock The saturating contact rate in marriage- and epidemic models.
+\newblock {\em Journal of Mathematical Biology}, 31(5):529--539, 1993.
+
+\bibitem{1977Present}
+S.~Krugman.
+\newblock Present status of measles and rubella immunization in the united
+  states: a medical progress report.
+\newblock {\em Journal of Pediatrics}, 90(1):1--12, 1977.
+
+\bibitem{Anon1996World}
+Anon.
+\newblock World malaria situation in 1993: part 3.
+\newblock {\em Wkly Epidemiol Rec}, 71:41--48, 1996.
+
+\bibitem{Herbert1973Optimal}
+Herbert, W., Hethcote, , , Paul, and Waltman.
+\newblock Optimal vaccination schedules in a deterministic epidemic model.
+\newblock {\em Mathematical Biosciences}, 18(3-4):365--381, 1973.
+
+\bibitem{1978An}
+I.~M. Longini, E.~Ackerman, and L.~R. Elveback.
+\newblock An optimization model for influenza a epidemics.
+\newblock {\em Mathematical Biosciences}, 38(1-2):141--157, 1978.
+
+\bibitem{1988Optimal}
+H.~W. Hethcote.
+\newblock Optimal ages of vaccination for measles.
+\newblock {\em Mathematical Biosciences}, 89(1):29--52, 1988.
+
+\bibitem{2023Optimal}
+Shuangshuang Yin, Jianhong Wu, and Pengfei Song.
+\newblock Optimal control by deep learning techniques and its applications on
+  epidemic models.
+\newblock {\em Journal of Mathematical Biology}, 86(3), 2023.
+
+\bibitem{Chun2015Dynamics}
+Chun-Hsien.
+\newblock Dynamics of a network-based sis epidemic model with nonmonotone
+  incidence rate.
+\newblock {\em Physica, A. Statistical mechanics and its applications}, 2015.
+
+\bibitem{Pinkus1999ApproximationTO}
+Allan Pinkus.
+\newblock Approximation theory of the mlp model in neural networks.
+\newblock {\em Acta Numerica}, 8:143 -- 195, 1999.
+
+\bibitem{2020Universal}
+C.~Rackauckas, Y.~Ma, J.~Martensen, C.~Warner, and A.~Ramadhan.
+\newblock Universal differential equations for scientific machine learning.
+\newblock 2020.
+
+\bibitem{Song2022ESTIMATINGTR}
+Pengfei Song and Yanni Xiao.
+\newblock Estimating time-varying reproduction number by deep learning
+  techniques.
+\newblock {\em Journal of Applied Analysis \&amp; Computation}, 2022.
+
+\bibitem{2018Neural}
+Rtq Chen, Y.~Rubanova, J.~Bettencourt, and D.~Duvenaud.
+\newblock Neural ordinary differential equations.
+\newblock 2018.
+
+\bibitem{2010Practical}
+J.~T. Betts.
+\newblock {\em Practical methods for optimal control and estimation using
+  nonlinear programming. 2nd ed}.
+\newblock Practical methods for optimal control and estimation using nonlinear
+  programming. 2nd ed, 2010.
+
+\bibitem{2007Optimal}
+S.~Lenhart and J.~T. Workman.
+\newblock Optimal control applied to biological models.
+\newblock {\em crc press}, 2007.
+
+\bibitem{2014FATODE}
+Hsa Zhang.
+\newblock Fatode: A library for forward, adjoint, and tangent linear
+  integration of odes.
+\newblock {\em SIAM Journal on Scientific Computing}, 36(5), 2014.
+
+\bibitem{2018A}
+C.~Rackauckas, Y.~Ma, V.~Dixit, X.~Guo, M.~Innes, Jarrett Revels, Joakim
+  Nyberg, and V.~Ivaturi.
+\newblock A comparison of automatic differentiation and continuous sensitivity
+  analysis for derivatives of differential equation solutions.
+\newblock 2018.
+
+\end{thebibliography}

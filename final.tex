@@ -1,0 +1,30 @@
+\documentclass[a4paper,zihao=-4,UTF8]{ctexart} 
+
+\newcommand{\Title}{基于神经微分方程的流行病动力学模型研究}
+\newcommand{\Department}{理学院}
+\newcommand{\Major}{信息与计算科学}
+\newcommand{\StudentName}{王乾宇}
+\newcommand{\AdvisorName}{高飞}
+\newcommand{\Grade}{2019}
+
+\input{config/packages}
+\input{config/commands}
+
+
+\begin{document}
+
+\clearpage
+\input{page/cover}
+\input{page/promise}
+\input{body/abstract}
+\input{page/toc}
+\input{body/1-introduction}
+\input{body/2-body}
+
+
+\newpage
+\normalem %无下划线
+\bibliographystyle{unsrt} % 参考文献排版风格，这个是IEEE transaction的，其他可以自查
+\bibliography{ref} % 导入lib，ref为“ref.lib"的文件名
+\addcontentsline{toc}{section}{参考文献}
+\end{document}
